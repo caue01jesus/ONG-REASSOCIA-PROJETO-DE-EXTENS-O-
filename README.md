@@ -98,8 +98,6 @@ As configurações são lidas de variáveis de ambiente, com valores padrão em 
 | `INSTAGRAM` | Link do Instagram da ONG | `https://www.instagram.com/` |
 | `FACEBOOK` | Link do Facebook da ONG | `https://www.facebook.com/` |
 
-> **Importante:** troque o WhatsApp e os links de redes sociais pelos dados reais da ONG e defina uma senha própria para o banco antes de publicar o site.
-
 ## Páginas
 
 | Rota | Descrição |
